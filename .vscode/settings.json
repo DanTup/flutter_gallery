@@ -1,0 +1,6 @@
+{
+	// "dart.analyzerPath": "/Users/danny/Dev/Google/dart-sdk/sdk/pkg/analysis_server/bin/server.dart",
+	"dart.analyzerLogFile": "logs/analyzer.txt",
+	"dart.analyzerInstrumentationLogFile": "logs/instrum.txt",
+	// "dart.analyzerVmServicePort": 8999
+}
